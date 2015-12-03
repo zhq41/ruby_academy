@@ -8,8 +8,10 @@ Repository ini dibuat untuk mendokumentasikan setiap aktivitas yang saya dapatka
 Just Stay to update file more...
 
 
+<hr>
+Test Belajar Ruby : <a href="https://github.com/neo/ruby_koans">Ruby Koans</a>
 
 
-
+<hr>
 Ziaul Haq
-#DolanDolan
+DolanDolan
