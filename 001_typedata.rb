@@ -24,4 +24,13 @@ varB = 10.1
 (fixnum ) http://ruby-doc.org/core-2.2.3/Fixnum.html
 (float  ) http://ruby-doc.org/core-2.2.3/Float.html
 (bignum ) http://ruby-doc.org/core-2.2.3/Bignum.html
+
+
+Kira-kira seperti ini :
+
+Fixnum < Integer < Bignum
+
+Kalau float ya tipe data real
 =end
+
+
