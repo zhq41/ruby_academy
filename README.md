@@ -4,6 +4,12 @@ Repository ini dibuat untuk mendokumentasikan setiap aktivitas yang saya dapatka
 
 1). <a href="https://github.com/zhq41/ruby_academy/blob/master/001_typedata.rb">Belajar Tipe Data</a>
 
+2). Belajar Operator 
+
+3). Menggunakan Kondisi
+
+4). Menggunakan Perulangan
+
 
 Just Stay to update file more...
 
